@@ -1,0 +1,7 @@
+.env
+.env.*
+.paperclip/
+.vscode/
+data/
+*.log
+RUN.md

@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "CareerPilot AI",
+  "short_name": "CareerPilot",
+  "description": "AI-powered career research and job application assistant",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#18181b",
+  "background_color": "#18181b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
