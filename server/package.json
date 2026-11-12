@@ -118,7 +118,7 @@
     "tar-stream": "3.2.0",
     "ws": "^8.22.0",
     "zod": "^4.6.6",
-    "@opentelemetry/resources": "2.10.0"
+    "@opentelemetry/resources": "3.1.0"
   },
   "bundleDependencies": [
     "@agentclientprotocol/claude-agent-acp",
@@ -158,7 +158,7 @@
     "@opentelemetry/exporter-trace-otlp-grpc": "0.221.0",
     "@opentelemetry/exporter-trace-otlp-http": "0.221.0",
     "@opentelemetry/exporter-trace-otlp-proto": "0.221.0",
-    "@opentelemetry/resources": "2.10.0",
+    "@opentelemetry/resources": "3.1.0",
     "@opentelemetry/sdk-node": "0.221.0",
     "@opentelemetry/semantic-conventions": "1.43.0",
     "@sentry/node": "10.71.0"
