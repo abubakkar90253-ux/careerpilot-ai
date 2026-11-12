@@ -83,7 +83,7 @@
     "yjs": "13.6.32"
   },
   "devDependencies": {
-    "@lexical/rich-text": "0.48.0",
+    "@lexical/rich-text": "0.53.0",
     "@paperclipai/plugin-sdk": "workspace:*",
     "@sentry/browser": "10.71.0",
     "@storybook/addon-a11y": "10.6.0",
